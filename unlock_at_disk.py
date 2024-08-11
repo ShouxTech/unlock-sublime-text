@@ -1,4 +1,4 @@
-FILE_PATH = 'C:\Program Files\Sublime Text\sublime_text.exe'
+FILE_PATH = r'C:\Program Files\Sublime Text\sublime_text.exe'
 
 def memory_compare(data, sig, mask):
     for i in range(len(sig)):
